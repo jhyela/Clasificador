@@ -1,12 +1,14 @@
 <div align="center">
 
-#  Clasificador de Mensajes Tipo SMS (SPAM)
+# Clasificador de Mensajes Tipo SMS (SPAM)
 
-###  Maestría en Inteligencia Artificial Aplicada  
-###  Universidad Icesi  
+### Maestría en Inteligencia Artificial Aplicada  
+### Universidad Icesi  
 
-**Autores**  
+#### **Autores**  
 Andrés Rodríguez • Alberto Torres • David Osorio • Javier Yela  
+
+<br><br>
 
 </div>
 
